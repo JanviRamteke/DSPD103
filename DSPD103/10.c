@@ -29,3 +29,7 @@ int main() {
 
     return 0;
 }
+// OUTPUT
+// Enter source file name: C:\Users\ramte\DSPD103\DSPD103\input.txt
+// Enter destination file name: C:\Users\ramte\DSPD103\DSPD103\output.txt
+// File copied successfully from C:\Users\ramte\DSPD103\DSPD103\input.txt to C:\Users\ramte\DSPD103\DSPD103\output.txt
